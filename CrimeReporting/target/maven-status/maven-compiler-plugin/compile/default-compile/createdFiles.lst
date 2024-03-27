@@ -1,0 +1,14 @@
+com\hexaware\model\Reports.class
+com\hexaware\dao\IncidentDao.class
+com\hexaware\dao\CaseDao.class
+com\hexaware\model\Incidents.class
+com\hexaware\controller\CrimeRepository.class
+com\hexaware\view\CrimeAnalysisMain.class
+com\hexaware\model\Victims.class
+com\hexaware\model\LawEnforcementAgencies.class
+com\hexaware\model\Evidence.class
+com\hexaware\model\Officers.class
+com\hexaware\model\Suspects.class
+com\hexaware\DBUtil\DbUtil.class
+com\hexaware\controller\CrimeAnalysisServiceImpl.class
+com\hexaware\model\Case.class
