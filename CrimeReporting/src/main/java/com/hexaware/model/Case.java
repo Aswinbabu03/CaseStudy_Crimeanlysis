@@ -56,20 +56,14 @@ public class Case {
 	
 	public String getCaseName() {
 		return CaseName;
-		/**
-	     * Sets the unique identifier for the case.
-	     * @param caseName Unique identifier for the case
-	     */
+		
 	}
 	public void setCaseName(String caseName) {
 		CaseName = caseName;
 	}
 	public int getIncidentID() {
 		return IncidentID;
-		/**
-	     * Sets the unique identifier for the case.
-	     * @param IncidentID Unique identifier for the case
-	     */
+		
 	
 	}
 	public void setIncidentID(int incidentID) {
@@ -77,31 +71,21 @@ public class Case {
 	}
 	public LocalDate getIncidentDate() {
 		return IncidentDate;
-		/**
-	     * Sets the unique identifier for the case.
-	     * @param IncidentDate Unique identifier for the case
-	     */
-		
+	
 	}
 	public void setIncidentDate(LocalDate incidentDate) {
 		IncidentDate = incidentDate;
 	}
 	public String getDescription() {
 		return Description;
-		/**
-	     * Sets the unique identifier for the case.
-	     * @param Description Unique identifier for the case
-	     */
+	
 	}
 	public void setDescription(String description) {
 		Description = description;
 	}
 	public String getStatus() {
 		return Status;
-		/**
-	     * Sets the unique identifier for the case.
-	     * @param Status Unique identifier for the case
-	     */
+		
 	}
 	public void setStatus(String status) {
 		Status = status;
